@@ -8,9 +8,7 @@ As a high school student, I am just getting into the world of coding. I am here 
 ---
 ### Contributed Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacv)](https://github.com/bytedeco/javacv)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacpp-presets)](https://github.com/bytedeco/javacpp-presets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacv)](https://github.com/bytedeco/javacv) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacpp-presets)](https://github.com/bytedeco/javacpp-presets) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-little-org-called-mario&repo=a-little-game-called-mario)](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
 
