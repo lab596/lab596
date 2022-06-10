@@ -12,9 +12,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F2TJNQM0rpUkp3ZTukph07GZvjij0xdH/view?usp=sharing](https://drive.google.com/file/d/1F2TJNQM0rpUkp3ZTukph07GZvjij0xdH/view?usp=sharing)
 
+---
+### Stats:
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lab596&show_icons=true&locale=en" alt="lab596" /> </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lab596&show_icons=true&locale=en" alt="lab596" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lab596&" alt="lab596" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lab596&" alt="lab596" /></p>
 
 ---
 
