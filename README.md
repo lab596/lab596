@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lab596</h1>
 <h3 align="center">As a high school student, I am just getting into the world of coding. I am here to meet the vast community and learn as much as I can. I love to make my own projects in my free time to show off what I know!</h3>
 
-- 🔭 I’m currently working on [a discord bot.](https://github.com/lab596/UniversalBot)
+- 🔭 I’m currently working on [a discord bot](https://github.com/lab596/UniversalBot) & Youtube Bot.
 
 - 🌱 I’m currently learning **C++ (CISP360 college class)**
 
