@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **uduparohan@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vqVbIqrJ2KRJHOpG10PtalhYLZWdDTJU/view?usp=sharing)
-
 ---
 ### Stats:
 
