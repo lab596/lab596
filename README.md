@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a discord bot](https://github.com/lab596/UniversalBot) & Youtube Bot.
 
-- 🌱 I’m currently learning **C++ (CISP360 college class)**
+- 🌱 I’m currently learning **discord.py**
 
 - 💬 Ask me about **Java, Python, Json**
 
