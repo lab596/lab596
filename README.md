@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm lab596</h1>
-<h3 align="center">As a high school student, I am just getting into the world of coding. I am here to meet the vast community and learn as much as I can. I love to make my own projects in my free time to show off what I know!</h3>
+<h3 align="center">As a college student, I am just getting into the world of coding. I am here to meet the vast community and learn as much as I can. I love to make my own projects in my free time to show off what I know!</h3>
 
-- 🔭 I’m currently working on [a discord bot](https://github.com/lab596/UniversalBot) & Youtube Bot.
+- 🔭 I’m currently working on [a projectile game](https://github.com/lab596/Projectile).
 
-- 🌱 I’m currently learning **discord.py**
-
-- 💬 Ask me about **Java, Python, Json**
-
-- 📫 How to reach me **uduparohan@gmail.com**
+- 🌱 I’m currently learning **pytorch** & **Python DSA**
 
 ---
 ### Stats:
@@ -15,6 +11,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lab596&show_icons=true&locale=en" alt="lab596" /> </p> 
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lab596&" alt="lab596" /></p>
+
+
 
 ---
 
@@ -40,7 +38,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacv)](https://github.com/bytedeco/javacv) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacpp-presets)](https://github.com/bytedeco/javacpp-presets) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-little-org-called-mario&repo=a-little-game-called-mario)](https://github.com/a-little-org-called-mario/a-little-game-called-mario) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanhaiworld&repo=BasketBallGame)](https://github.com/kanhaiworld/BasketBallGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-little-org-called-mario&repo=a-little-game-called-mario)](https://github.com/a-little-org-called-mario/a-little-game-called-mario) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xspanger3770&repo=GlobalQuake)](https://github.com/xspanger3770/GlobalQuake)
 
 
 
