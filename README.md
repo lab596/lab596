@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm lab596</h1>
 <h3 align="center">As a college student, I am just getting into the world of coding. I am here to meet the vast community and learn as much as I can. I love to make my own projects in my free time to show off what I know!</h3>
+<h4 align="center">Check out my personal <a href="https://lab596.github.io/">a personal website!</a></h4> 
 
-- 🔭 I’m currently working on [a projectile game](https://github.com/lab596/Projectile).
+- 🔭 I’m currently working on [a personal website](https://lab596.github.io/).
 
-- 🌱 I’m currently learning **Python DSA**
+- 🌱 I’m currently learning **Object Orientiented Programming & Computer Organization**
 
 ---
 ### Stats:
@@ -42,6 +43,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xspanger3770&repo=GlobalQuake)](https://github.com/xspanger3770/GlobalQuake) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=streampipes)](https://github.com/apache/streampipes)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jreleaser&repo=jreleaser)](https://github.com/jreleaser/jreleaser)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bytedeco&repo=javacv)](https://github.com/bytedeco/javacv) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Polyratings&repo=polyratings)](https://github.com/Polyratings/polyratings)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lab596&label=Profile%20views&color=0e75b6&style=flat" alt="lab596" /> </p>
 
