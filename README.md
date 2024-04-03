@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a personal website](https://lab596.github.io/).
 
-- 🌱 I’m currently learning **Object Orientiented Programming & Computer Organization**
+- 🌱 I’m currently learning **Systems Programming & Discrete Structures**
 
 ---
 ### Stats:
